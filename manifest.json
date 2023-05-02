@@ -1,0 +1,35 @@
+{
+    "name": "Marketingbaz",
+    "short_name": "Marketingbaz",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Marketingbaz is a leading marketing and research consultant firm based in Bangladesh made up of a proactive, strategist, dynamic, and enthusiastic team. We understand your live problem in your business, and we serve it by our consultancy. Our services range from national brands to global companies. We habituate to take challenge and find out our client’s problems for proper Business intelligence Solutions. Our motto is, raise your business.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
